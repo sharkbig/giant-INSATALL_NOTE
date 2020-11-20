@@ -50,18 +50,18 @@ run the command
 # INSTALL GIAnT
 
 run the command
-
-`$ export GIANT=$PWD
+```
+$ export GIANT=$PWD
 $ export PYTHONPATH=$GIANT:$PYTHONPATH
-$ python setup.py build_ext`
-
+$ python setup.py build_ext
+```
 # Environment 
 
 Create GIANT_CONFIG.bash contains:
-`
+```
 export GIANT=/the/GIANT/INSTALL/DIRECTORY
 export PYTHONPATH=$GIANT:$PYTHONPATH
 export PATH=$GIANT/SCR:$PATH
-`
+```
 run the command
 `$ source GIANT_CONFIG`
