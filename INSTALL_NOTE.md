@@ -44,8 +44,10 @@ $ pip install weave
 
 run the command
 
-`$ cd GIAnT`
-`$ svn co http://earthdef.caltech.edu/svn/pyaps`
+```
+$ cd GIAnT
+$ svn co http://earthdef.caltech.edu/svn/pyaps
+```
 
 # INSTALL GIAnT
 
