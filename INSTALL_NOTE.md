@@ -30,10 +30,10 @@ pykml
 pyresample
 pyhdf
 
-`
+```
 $ conda install --yes --file requirements.txt
 $ conda install -c conda-forge --yes --file requirements_condaforge.txt
-`
+```
 
 Package only can be installed through pip:
 `
