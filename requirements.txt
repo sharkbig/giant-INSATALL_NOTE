@@ -1,0 +1,9 @@
+numpy
+scipy	
+matplotlib
+cython	
+h5py	
+pywavelets
+lxml	
+gdal
+

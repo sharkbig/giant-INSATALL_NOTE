@@ -1,0 +1,3 @@
+conda activate giant
+export PYTHONPATH=${HOME}/opt/giant/GIAnT:$PYTHONPATH
+export PATH=${HOME}/opt/giant/GIAnT/SCR:$PATH
