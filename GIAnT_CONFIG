@@ -3,5 +3,5 @@
 
 conda activate giant
 export GIANT=$HOME/opt/giant/GIAnt:$HOME/opt/giant/GAInT/SRC:$HOME/opt/giant/GIAnT/solver
-export PYTHONPATH=$IANT:$PYTHONPATH
+export PYTHONPATH=$GIANT:$PYTHONPATH
 export PATH=$GIANT:$PATH
