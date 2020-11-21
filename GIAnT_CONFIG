@@ -1,3 +1,7 @@
+#!/bin/sh
+# Setup giant environment
+
 conda activate giant
-export PYTHONPATH=${HOME}/opt/giant/GIAnT:$PYTHONPATH
-export PATH=${HOME}/opt/giant/GIAnT/SCR:$PATH
+export GIANT=$HOME/opt/giant/GIAnt:$HOME/opt/giant/GAInT/SRC:$HOME/opt/giant/GIAnT/solver
+export PYTHONPATH=$IANT:$PYTHONPATH
+export PATH=$GIANT:$PATH
