@@ -14,21 +14,21 @@ $ conda activate giant
 
 Create requirements.txt and contain the following:
 
-scipy
-matplotlib
-numpy	
-cython	
-h5py	
-pywavelets
-lxml	
-gdal
+- scipy
+- matplotlib
+- numpy	
+- cython	
+- h5py	
+- pywavelets
+- lxml	
+- gdal
 
 Create requirement_condaforge.txt and contain the following:
 
-pygrib
-pykml
-pyresample
-pyhdf
+- pygrib
+- pykml
+- pyresample
+- pyhdf
 
 ```
 $ conda install --yes --file requirements.txt
