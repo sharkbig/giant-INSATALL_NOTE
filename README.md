@@ -1,5 +1,5 @@
 # GIAnT installation note
-Forum [!](http://earthdef.caltech.edu/projects/giant/boards)
+[Forum link](http://earthdef.caltech.edu/projects/giant/boards)
 
 ## Anaconda environment with Python 2.7
 
